@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.28)
 
-project(PROYECTO CONCURRENCIA
+project(PEL
    VERSION 0.1.0
    DESCRIPTION "Proyecto sencillo de C++ con un solo target"
    LANGUAGES CXX

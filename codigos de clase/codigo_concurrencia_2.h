@@ -5,7 +5,7 @@
 #include <vector>
 
 using namespace std::chrono_literals;
-
+/*
 auto main() -> int
 {
 	auto nums = std::vector<int>{};
@@ -54,3 +54,4 @@ auto main() -> int
 	}
 	// en caso de que futures contuviese elementos (pues aquí es void), en vez de wait se usaría get para guardar lo obtenido en por ejemplo un nuevo vector: nuevo_vector.push_back(f.get());
 }
+*/

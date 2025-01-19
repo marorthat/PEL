@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/maria/Desktop/eu/segundo/Programacion_Estructuras_lineales/PEL/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -O3 -DNDEBUG -std=c++23 -Wall -Wextra -pedantic -Werror -fmodules-ts -fmodule-mapper=CMakeFiles\\PEL.dir\\main.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\PEL.dir\\main.cpp.obj -c C:\\Users\\maria\\Desktop\\eu\\segundo\\Programacion_Estructuras_lineales\\PEL\\main.cpp",
+  "file": "C:\\Users\\maria\\Desktop\\eu\\segundo\\Programacion_Estructuras_lineales\\PEL\\main.cpp",
+  "output": "CMakeFiles\\PEL.dir\\main.cpp.obj"
+}
+]

@@ -4,6 +4,7 @@
 #include <print>
 
 using namespace std::chrono_literals;
+/*
 
 auto do_something_1 (int i) -> int  // función que toma un entero, le suma uno y lo devuelve
 {
@@ -32,4 +33,4 @@ auto main() -> int
 	std::println("j = {}", j);
 	
 	std::println("duration: {} segundos", std::chrono::duration_cast<std::chrono::seconds>(end - start).count());	
-}
+}*/
